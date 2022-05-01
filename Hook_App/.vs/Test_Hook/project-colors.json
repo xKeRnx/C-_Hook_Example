@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f79dbff3-8584-4ab3-9c7c-4c05a159370d": {
+      "ProjectGuid": "f79dbff3-8584-4ab3-9c7c-4c05a159370d",
+      "DisplayName": "Test_Hook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

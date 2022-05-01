@@ -32,7 +32,5 @@
 *.app
 
 #Other
-/Hook_App/Debug/
-/Hook_App/x64/
-/Hook_Dll/Debug/
-/Hook_Dll/x64/
+Debug/
+x64/
